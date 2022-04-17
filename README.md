@@ -16,7 +16,7 @@
   ## Description
   This project is a portfolio generator that dynamically produces a high-quality user portfolio file directly from the command line.
   
-  <img src="https://github.com/ccd330/portfolio-generator/blob/main/dist/demo.png" />
+  <img src="https://github.com/ccd330/pizza-hunt/blob/main/demo.png" />
 
   ## Usage
   Please find the live application here: https://murmuring-sea-88308.herokuapp.com/
